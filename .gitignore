@@ -1,22 +1,6 @@
-*.class
-
-# Package Files #
-*.dex
-*.war
-*.ear
-*.apk
-bin/
-bin
-gen/
-release/
-release
-gen
-.metadata/
-.metadata
-.idea/
+.gradle
 .idea
-*.project
+/local.properties
 .DS_Store
-target/
-
+/build
 *.iml

@@ -128,9 +128,9 @@ public class CustomViewAbove extends ViewGroup {
 	}
 
 	/**
-	 * Simple implementation of the {@link OnPageChangeListener} interface with stub
+	 * Simple implementation of the {@link com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove.OnPageChangeListener} interface with stub
 	 * implementations of each method. Extend this if you do not intend to override
-	 * every method of {@link OnPageChangeListener}.
+	 * every method of {@link com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove.OnPageChangeListener}.
 	 */
 	public static class SimpleOnPageChangeListener implements OnPageChangeListener {
 
@@ -243,7 +243,7 @@ public class CustomViewAbove extends ViewGroup {
 
 	/**
 	 * Set a listener that will be invoked whenever the page changes or is incrementally
-	 * scrolled. See {@link OnPageChangeListener}.
+	 * scrolled. See {@link com.jeremyfeinstein.slidingmenu.lib.CustomViewAbove.OnPageChangeListener}.
 	 *
 	 * @param listener Listener to set
 	 */

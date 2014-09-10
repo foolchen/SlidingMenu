@@ -874,7 +874,7 @@ public class SlidingMenu extends RelativeLayout {
 	}
 
 	/**
-	 * Sets the OnOpenListener. {@link OnOpenListener#onOpen() OnOpenListener.onOpen()} will be called when the SlidingMenu is opened
+	 * Sets the OnOpenListener. {@link com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnOpenListener#onOpen() OnOpenListener.onOpen()} will be called when the SlidingMenu is opened
 	 *
 	 * @param listener the new OnOpenListener
 	 */
@@ -885,7 +885,7 @@ public class SlidingMenu extends RelativeLayout {
 
 	
 	/**
-	 * Sets the OnOpenListner for secondary menu  {@link OnOpenListener#onOpen() OnOpenListener.onOpen()} will be called when the secondary SlidingMenu is opened
+	 * Sets the OnOpenListner for secondary menu  {@link com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnOpenListener#onOpen() OnOpenListener.onOpen()} will be called when the secondary SlidingMenu is opened
 	 * 
 	 * @param listener the new OnOpenListener
 	 */
@@ -895,7 +895,7 @@ public class SlidingMenu extends RelativeLayout {
 	}
 	
 	/**
-	 * Sets the OnCloseListener. {@link OnCloseListener#onClose() OnCloseListener.onClose()} will be called when any one of the SlidingMenu is closed
+	 * Sets the OnCloseListener. {@link com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnCloseListener#onClose() OnCloseListener.onClose()} will be called when any one of the SlidingMenu is closed
 	 *
 	 * @param listener the new setOnCloseListener
 	 */
@@ -905,7 +905,7 @@ public class SlidingMenu extends RelativeLayout {
 	}
 
 	/**
-	 * Sets the OnOpenedListener. {@link OnOpenedListener#onOpened() OnOpenedListener.onOpened()} will be called after the SlidingMenu is opened
+	 * Sets the OnOpenedListener. {@link com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnOpenedListener#onOpened() OnOpenedListener.onOpened()} will be called after the SlidingMenu is opened
 	 *
 	 * @param listener the new OnOpenedListener
 	 */
@@ -914,7 +914,7 @@ public class SlidingMenu extends RelativeLayout {
 	}
 
 	/**
-	 * Sets the OnClosedListener. {@link OnClosedListener#onClosed() OnClosedListener.onClosed()} will be called after the SlidingMenu is closed
+	 * Sets the OnClosedListener. {@link com.jeremyfeinstein.slidingmenu.lib.SlidingMenu.OnClosedListener#onClosed() OnClosedListener.onClosed()} will be called after the SlidingMenu is closed
 	 *
 	 * @param listener the new OnClosedListener
 	 */
